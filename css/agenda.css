@@ -1,0 +1,28 @@
+table {
+    width: 100%;
+    font-size: 50px;
+    border-collapse: separate;
+    border-spacing: 5px;
+    background: #000 url("gradient.gif") bottom left repeat-x;
+    color: #fff;
+    border: 3px solid red;
+ }
+ td{
+    background: #fff;
+    color: #000;
+    border: 3px solid red;
+ }
+
+ h2 {
+    font-size: 60px;
+    text-align: center;
+    position: relative;
+    border: 2px solid red;
+ }
+
+ h2:hover{
+    background-color: #ffffff;
+    color: black;
+    border: 2px white;
+ }
+ 

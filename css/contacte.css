@@ -1,0 +1,17 @@
+input {
+    color:  rgb(0, 0, 0);
+    width: 10%;
+    height: 30px;
+}
+label {
+    width: 10%;
+    font-size: 20px;
+}
+
+button {
+    color:  black;
+}
+
+iframe {
+    width: 50%;
+}
